@@ -30,25 +30,20 @@ It’s meant for:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AKASH-KUMAR-BARPANDA/Blinkit-UI.git
+## 📸 Screenshots  
 
-## 📸 Screenshots
+Here’s a quick look at the **Blinkit UI** screens and design flow:  
 
-Here’s a quick look at the Blinkit UI screens and design flow:
+<p align="center">
+  <img src="assets/screenshots/splash.png" alt="Splash Screen" width="250"/>
+  <img src="assets/screenshots/login.png" alt="Login Screen" width="250"/>
+  <img src="assets/screenshots/home.png" alt="Home Screen" width="250"/>
+</p>
 
-### 🚀 Splash Screen  
-![Splash Screen](assets/screenshots/splash.png)
+<p align="center">
+  <img src="assets/screenshots/cart.png" alt="Cart Screen" width="250"/>
+  <img src="assets/screenshots/category.png" alt="Category Screen" width="250"/>
+  <img src="assets/screenshots/print.png" alt="Print Screen" width="250"/>
+</p>
 
-### 🔐 Login Screen  
-![Login Screen](assets/screenshots/login.png)
 
-### 🏠 Home Screen  
-![Home Screen](assets/screenshots/home.png)
-
-### 🛒 Cart Screen  
-![Cart Screen](assets/screenshots/cart.png)
-
-### 🗂️ Collection Screen  
-![Collection Screen](assets/screenshots/category.png)
-
-### 🖨️ Print Screen  
-![Print Screen](assets/screenshots/print.png)
