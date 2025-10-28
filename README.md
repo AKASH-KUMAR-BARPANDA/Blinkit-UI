@@ -1,20 +1,54 @@
-<<<<<<< HEAD
-# Blinkit-UI
-=======
-# grocery_shop
+# 🛒 Blinkit UI (Flutter)
 
-A new Flutter project
+A clean and modern **Flutter UI** inspired by the **Blinkit grocery delivery app**.  
+This project focuses purely on **frontend design and layout**, providing a sleek, reusable foundation for future grocery or e-commerce app development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+-  Beautiful, minimal UI inspired by Blinkit  
+-  Responsive design compatible with all screen sizes  
+-  Integrated search bar and product/category views  
+-  Clean grid and list layouts for products  
+-  Built using Flutter’s modern UI components  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> d76b77c (Commited)
+##  Purpose
+
+This project is **UI-only** — no backend or Firebase integration.  
+It’s meant for:
+- Learning Flutter UI and layout concepts  
+- Building prototypes for grocery or shopping apps  
+- Serving as a design reference for future Flutter projects  
+
+---
+
+##  Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/AKASH-KUMAR-BARPANDA/Blinkit-UI.git
+
+## 📸 Screenshots
+
+Here’s a quick look at the Blinkit UI screens and design flow:
+
+### 🚀 Splash Screen  
+![Splash Screen](assets/screenshots/splash.png)
+
+### 🔐 Login Screen  
+![Login Screen](assets/screenshots/login.png)
+
+### 🏠 Home Screen  
+![Home Screen](assets/screenshots/home.png)
+
+### 🛒 Cart Screen  
+![Cart Screen](assets/screenshots/cart.png)
+
+### 🗂️ Collection Screen  
+![Collection Screen](assets/screenshots/category.png)
+
+### 🖨️ Print Screen  
+![Print Screen](assets/screenshots/print.png)
